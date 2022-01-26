@@ -1,5 +1,5 @@
 # Snakon
-snake game but in terminal written in python & open source
+snake game but in terminal, written in python & open source
 # How to play
 <b>•</b> Type a key to move the snake (w - up, a - left, s - down, d - right)
 
